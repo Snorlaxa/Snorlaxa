@@ -1,5 +1,5 @@
 - :walking: Hi, I’m @Snorlaxa 
-- :running: 从事数据领域，关注数仓建设、实时计算、数据治理等方向
+- :running: 从事数据工作，关注数仓建设、实时计算、数据治理等方向
 - 📫 snorlaxa@163.com
 
 <!---
